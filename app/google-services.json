@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "829745361762",
+    "firebase_url": "https://seekoptimumasparents-76bdd.firebaseio.com",
+    "project_id": "seekoptimumasparents-76bdd",
+    "storage_bucket": "seekoptimumasparents-76bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829745361762:android:deafa8a45c2e3e5d",
+        "android_client_info": {
+          "package_name": "com.example.chenkangyang.seekoptimumasparents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829745361762-m37ocaiuja1ngsbmr41v47envgc8jdqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chenkangyang.seekoptimumasparents",
+            "certificate_hash": "e01c45f6047a92b9b5f5e73c5329810258944b6a"
+          }
+        },
+        {
+          "client_id": "829745361762-neha6p27edodk9h6fksd27ngsmlm1o2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZOywFkynVuEeUxkrE-8D6eh5FzDJj_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829745361762-neha6p27edodk9h6fksd27ngsmlm1o2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829745361762:android:d9df0ca1f6b32c44",
+        "android_client_info": {
+          "package_name": "com.jiang.geo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829745361762-reh28mkj4j1k8mo23o7a4u828jvrtcpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jiang.geo",
+            "certificate_hash": "2787903ee908c7518b01545b6688658999ae5432"
+          }
+        },
+        {
+          "client_id": "829745361762-neha6p27edodk9h6fksd27ngsmlm1o2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqZOywFkynVuEeUxkrE-8D6eh5FzDJj_U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829745361762-neha6p27edodk9h6fksd27ngsmlm1o2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

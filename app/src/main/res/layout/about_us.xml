@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        android:id="@+id/relativeLayout">
+
+        <Button
+            android:id="@+id/backforradio"
+            style="@android:style/Widget.DeviceDefault.Button.Borderless"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:text="Back"
+            android:textColor="#333"
+
+            android:textSize="16sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="About us"
+            android:textColor="#333"
+            android:textSize="20sp" />
+
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="431dp"
+        android:text="Our project is about the development of an Android go-to app, which provides the user with a visualization of Melbourne CBD’s current construction, informing potential noise disruptions caused by the construction work, so that pedestrians can avoid the routes exposed by construction noise pollution. Our target audience for this product is parents with children age 0 to 5 who travels on foot around Melbourne CBD and want to avoid or minimize construction work's noise pollution exposure for their children. The functionalities we aim to develop for this app development project include:
+
+A visualization of current construction work in Melbourne CBD and noise pollution estimation produced from it
+A noise meter in decibels
+Hourly foot traffic estimation in Melbourne CBD
+Recommendation for routes that are more likely not being exposed by loud construction work nor foot traffic
+Notification for loud construction work happening across the user's route
+Public toilets facilitation visualization on Melbourne CBD map"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

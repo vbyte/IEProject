@@ -1,0 +1,3 @@
+include ':app', ':bubbleseekbar'
+include ':PhotoPicker'
+include ':CircleProgressView'
